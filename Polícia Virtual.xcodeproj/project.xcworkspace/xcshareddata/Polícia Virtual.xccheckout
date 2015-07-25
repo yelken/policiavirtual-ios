@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>116D708E-6FB0-41DC-AAC2-0991B288AA9F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Polícia Virtual</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C74C0CE47E98FA3659053C25546DB7CA8132920E</key>
+		<string>https://github.com/telefonicadigital/kit-iot-wearable-ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Polícia Virtual.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C74C0CE47E98FA3659053C25546DB7CA8132920E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/telefonicadigital/kit-iot-wearable-ios</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C74C0CE47E98FA3659053C25546DB7CA8132920E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C74C0CE47E98FA3659053C25546DB7CA8132920E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>policiavirtual-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
